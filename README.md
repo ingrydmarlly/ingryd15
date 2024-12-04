@@ -10,7 +10,7 @@ Uma loja de instrumento musical online é um e-commerce especializado na comerci
 - Conteúdo educativo e de suporte
 - Integração com redes sociais
 # Mais informações
--A principal categoria de qualquer loja de instrumentos musicais online. Isso inclui instrumentos de corda (guitarras, violões, baixos), percussão (baterias, cajóns, bongôs), teclados, instrumentos de sopro (trompetes, saxofones, flautas), e muito mais.
+- A principal categoria de qualquer loja de instrumentos musicais online. Isso inclui instrumentos de corda (guitarras, violões, baixos), percussão (baterias, cajóns, bongôs), teclados, instrumentos de sopro (trompetes, saxofones, flautas), e muito mais.
 - As lojas online geralmente oferecem uma navegação simples com filtros como tipo de instrumento, preço, marca e avaliação de outros clientes. Pagamentos podem ser feitos via cartões de crédito, boletos bancários, transferências e até em parcelamentos, facilitando a compra de produtos mais caros.
 - As lojas de instrumentos musicais online têm se tornado uma alternativa muito prática para quem busca adquirir novos instrumentos e acessórios, com a conveniência de poder fazer tudo do conforto de casa.
 # Contato
