@@ -16,7 +16,7 @@ Uma loja de instrumento musical online é um e-commerce especializado na comerci
 # Contato
 - Facebook: Starmúsicaonline
 - Instagram: @starmúsica_onine
-- E-mail: starmúsica@gmail.com
+- E-mail: starmusica@gmail.com
 - Telefone: 15 99653-6013
 
 
