@@ -1,0 +1,16 @@
+# Definindo os produtos e seus preços
+produtos = [
+    ["Guitarra Elétrica", "R$ 2.000,00"],
+    ["Piano Digital", "R$ 3.500,00"],
+    ["Bateria", "R$ 1.800,00"],
+    ["Violão", "R$ 800,00"],
+    ["Teclado", "R$ 1.200,00"],
+    ["Baixo", "R$ 1.400,00"]
+]
+
+# Cabeçalho da tabela
+cabecalho = ["Produto", "Preço"]
+
+# Exibindo a tabela formatada
+print("Tabela de Preços - Loja de Instrumentos Musicais")
+print(tabulate(produtos, headers=cabecalho, tablefmt="grid", stralign="center"))
