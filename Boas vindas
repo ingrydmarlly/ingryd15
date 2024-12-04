@@ -1,0 +1,15 @@
+import time
+
+def boas_vindas():
+    print("Bem-vindo à Loja de Instrumentos Musicais!")
+    time.sleep(1)
+    print("\nExplore os melhores instrumentos para músicos de todos os níveis!")
+    time.sleep(2)
+    print("\nTemos guitarras, pianos, baterias e muito mais!")
+    time.sleep(1)
+    print("\nPronto para começar sua jornada musical?")
+    time.sleep(1)
+    print("\nVamos encontrar o instrumento perfeito para você!")
+    time.sleep(2)
+    print("\nObrigado por visitar nossa loja. Aproveite as compras!")
+    
